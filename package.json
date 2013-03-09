@@ -1,0 +1,9 @@
+{
+  "name":"twitscrap",
+  "version":"0.0.1",
+  "description":"basic twitter scraper for collecting as many twits as possible",
+  "dependencies":{
+    "twitter":"*",
+    "mongo":"*"
+  }
+}
